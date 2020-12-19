@@ -1,0 +1,30 @@
+{
+  "name": "chat-socket.io",
+  "version": "1.0.0",
+  "description": "Chat réalisé avec Socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NouvelleTechno/Chat-Socket.io.git"
+  },
+  "keywords": [
+    "chat",
+    "socket",
+    "socket.io",
+    "node",
+    "nodejs"
+  ],
+  "author": "Benoit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NouvelleTechno/Chat-Socket.io/issues"
+  },
+  "homepage": "https://github.com/NouvelleTechno/Chat-Socket.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  }
+}

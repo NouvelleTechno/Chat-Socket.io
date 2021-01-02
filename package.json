@@ -25,6 +25,8 @@
   "homepage": "https://github.com/NouvelleTechno/Chat-Socket.io#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "socket.io": "^3.0.4"
+    "sequelize": "^6.3.5",
+    "socket.io": "^3.0.4",
+    "sqlite3": "^5.0.0"
   }
 }
